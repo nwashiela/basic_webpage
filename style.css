@@ -1,0 +1,52 @@
+
+.header {
+
+    display: flex;
+    border:5px solid #ffccff;
+    margin: 20px auto;
+  padding: 20px;
+  border-width: 7px;
+
+}
+
+.name{
+    height: 180px;
+    width: 48%;
+}
+.pic{
+    width: 180;
+    height: 220;
+    
+}
+.content{
+display: flex;
+border:5px solid #ffccff;
+padding: 20px;
+  border-width: 7px;
+
+
+
+}
+.city{
+    width: 180;
+    height: 220;
+}
+
+}
+.text{
+    float: right;
+    padding: 1em;
+    }
+    .p{
+        display: block;
+    }
+    .div
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+      }
+      th, td {
+        padding: 5px;
+        text-align: left;    
+      }
+
