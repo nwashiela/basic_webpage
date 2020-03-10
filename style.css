@@ -2,9 +2,9 @@
 .header {
 
     display: flex;
-    border:5px solid #ffccff;
+    border: 1px solid black;
     margin: 20px auto;
-  padding: 20px;
+  padding: 18px;
   border-width: 7px;
 
 }
@@ -20,7 +20,7 @@
 }
 .content{
 display: flex;
-border:5px solid #ffccff;
+border: 1px solid black;
 padding: 20px;
   border-width: 7px;
 
