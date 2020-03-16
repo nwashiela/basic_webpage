@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+border-color: black;
+padding: 1en;
+}
+.content{
+border-color: black;
+padding: 1en;
+}
+.history{
+border-color: black;
+padding: 1rem;
+}
