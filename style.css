@@ -61,10 +61,10 @@ th, td {
   border-width: 7px;
 }
 
-.one {
+/* .one {
   width: 180px;
   height: 240px;
-}
+} */
 
 .text2 {
   float: right;
@@ -81,10 +81,10 @@ th, td {
   padding: 1em;
 }
 
-.three {
+/* .three {
   width: 180px;
   height: 240px;
-}
+} */
 
 .text4 {
   float: right;
@@ -102,8 +102,15 @@ th, td {
     display: grid;
   }
 }
-@media screen and (max-width:360px) {
+@media screen and (max-width:414px) {
   .content {
     display: grid;
   }
 }
+@media screen and (max-width:414px) {
+  .history {
+    display: grid;
+    
+  }
+}
+
